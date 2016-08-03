@@ -1,0 +1,5 @@
+Credentials cache: API:19083
+        Principal: gleclerc@42.FR
+
+  Issued                Expires               Principal
+Aug  1 16:04:55 2016  Aug  8 16:04:45 2016  krbtgt/42.FR@42.FR
